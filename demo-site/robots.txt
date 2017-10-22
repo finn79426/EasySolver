@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /no_flag/flag_is_here
