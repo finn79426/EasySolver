@@ -20,4 +20,4 @@ find CTF{xxxx}: `ruby EasySolver.rb --host=kaibro.tw --key=CTF`
 
 ## Screenshot
 
-!(img)[https://github.com/w181496/EasySolver/blob/master/demo.png]
+![img](https://github.com/w181496/EasySolver/blob/master/demo.png)
